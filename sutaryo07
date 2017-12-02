@@ -1,0 +1,56 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e530dbf..771928b 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -53,14 +53,14 @@[m
+ [m
+ 			<div class="col-md-4" id="thumbnail">[m
+ 				<div class="thumbnail-hover">[m
+[31m-					<a href="#">View Templete</a>[m
+[32m+[m					[32m<a href="pages/foodweb/foodhome.html">View Templete</a>[m
+ 				</div>[m
+ 				<img src="assets/portfolio/a6.png">[m
+ 			</div>[m
+ [m
+ 			<div class="col-md-4" id="thumbnail">[m
+ 				<div class="thumbnail-hover">[m
+[31m-					<a href="#">View Templete</a>[m
+[32m+[m					[32m<a href="pages/courseweb/coursehome.html">View Templete</a>[m
+ 				</div>[m
+ 				<img src="assets/portfolio/a5.png">[m
+ 			</div>[m
+[36m@@ -386,7 +386,8 @@[m
+ 		<div class="about" id="about">[m
+ 			<h2>About Me</h2>[m
+ 			<div class="desk">[m
+[31m-				<p> Hi, my name is Sutaryo, I am a <label> Frontend Developer and Web Designer </label>, is currently working freelance 99design and looking for work that suits my abilities[m
+[32m+[m				[32m<p> Hi, my name is Sutaryo, I am a <label> Frontend Developer and Web Designer </label>, is currently working freelance 99design and looking for work that suits my abilities. Contact Me Email <label>[m
+[32m+[m				[32milvantayonasution@gmail.com</label>[m
+ 				</p>[m
+ 			</div>[m
+ 			<h3>Skills Set</h3>[m
+[36m@@ -399,9 +400,9 @@[m
+ 	<div class="container-fluid" id="footer-bg">[m
+ 		<div class="footer">[m
+ 			<div class="social-button">[m
+[31m-				<a href="#"><img src="assets/social1.png"></a>[m
+[32m+[m				[32m<a href="https://web.facebook.com/tayo.net"><img src="assets/social1.png"></a>[m
+[32m+[m				[32m<a href="#083813033916"><img src="assets/social3.png"></a>[m
+ 				<a href="#"><img src="assets/social2.png"></a>[m
+[31m-				<a href="#"><img src="assets/social3.png"></a>[m
+ 				<a href="#"><img src="assets/social4.png"></a>[m
+ 			</div>[m
+ 			<div class="copyright">[m
+[1mdiff --git a/pages/courseweb/coursehome.html b/pages/courseweb/coursehome.html[m
+[1mindex 342e007..1768e16 100644[m
+[1m--- a/pages/courseweb/coursehome.html[m
+[1m+++ b/pages/courseweb/coursehome.html[m
+[36m@@ -7,7 +7,7 @@[m
+ 	<link rel="stylesheet" type="text/css" href="style.css">[m
+ 	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">[m
+ 	<script type="text/javascript" src="bootstrap/js/jquery.js"></script>[m
+[31m-	<script type="text/javascript" src="food.js"></script>[m
+[32m+[m	[32m<script type="text/javascript" src="course.js"></script>[m
+ </head>[m
+ <body>[m
+ 	<div class="continer-fluid" id="header">[m
