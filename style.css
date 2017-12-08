@@ -4,6 +4,10 @@
 .container-fluid {
   height: 800px;
   width: 100%;
+  background: linear-gradient(90deg, #b269ff, #7a81e5);
+  background: -moz-linear-gradient(90deg, #b269ff, #7a81e5);
+  background: -ms-linear-gradient(90deg, #b269ff, #7a81e5);
+  background: -o-linear-gradient(90deg, #b269ff, #7a81e5);
   background: -webkit-linear-gradient(90deg, #b269ff, #7a81e5); }
   .container-fluid .menu-icon {
     height: 30px;
